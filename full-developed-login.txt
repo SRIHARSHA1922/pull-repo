@@ -1,1 +1,1 @@
-login application fully developed
+login partial fully developed
